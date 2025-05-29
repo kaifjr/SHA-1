@@ -1,5 +1,5 @@
-# Name:Dhinesh P
-# Register No.:212222043001
+# Name:Kaif mohamed P
+# Register No.:212222043004
 # SHA-1
 # Aim: To implement the SHA-I hashing technique using C program. 
 # ALGORITHM:
